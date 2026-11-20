@@ -127,24 +127,6 @@ The default local connection is:
 Server=localhost;Port=3306;Database=LCMS_db;Uid=root;Pwd=;
 ```
 
-## Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/LegalCaseManagementSystem.git
-cd LegalCaseManagementSystem
-```
-
-2. Open the solution in Visual Studio.
-3. Confirm that MySQL is running.
-4. Confirm that `LCMS_db` exists and the connection string is correct.
-5. Build the solution.
-6. Run the project.
-7. Sign in through the login screen.
-
-The application opens the correct workspace based on the signed-in user's role.
-
 ## User Journey
 
 ### Administrator
